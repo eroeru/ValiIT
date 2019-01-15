@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="522885ac-a2eb-494b-a9ad-dd0c28ae109a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exception/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exception/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exception/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exception/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exception/Exception.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exception/src/ee/E/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exception/src/ee/E/Teine.java" afterDir="false" />
+    <list default="true" id="51221f6b-725c-46e9-b51c-3b5f7db17dd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ee/E/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ee/E/Teine.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Iseseisev_tyy/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Iseseisev_tyy/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Iseseisev_tyy/Iseseisev_tyy.iml" afterDir="false" />
@@ -24,7 +24,7 @@
       <change afterPath="$PROJECT_DIR$/../Isikukood/src/ee/E/Inimene.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Isikukood/src/ee/E/Isikukood_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Isikukood/src/ee/E/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kuupHarj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Koos/src/kuupHarj.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Koos1/src/ee/E/Array_List.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Koos1/src/ee/E/Array_List_Kodune.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Koos1/src/ee/E/Harjutus.java" afterDir="false" />
@@ -42,7 +42,7 @@
       <change afterPath="$PROJECT_DIR$/../N2dal2/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../N2dal2/N2dal2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../N2dal2/src/ee/E/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Koos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Koos/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../veeluuem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../veeluuem/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -54,32 +54,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Massiiv.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kuupHarj.java">
+        <entry file="file://$PROJECT_DIR$/src/ee/E/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ee/E/Teine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -99,9 +87,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Massiiv.java" />
-        <option value="$PROJECT_DIR$/src/kuupHarj.java" />
+        <option value="$PROJECT_DIR$/src/ee/E/Teine.java" />
+        <option value="$PROJECT_DIR$/src/ee/E/Demo.java" />
       </list>
     </option>
   </component>
@@ -117,31 +104,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="koos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Koos" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="koos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Koos" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exception" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exception" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exception" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="E" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547543798684" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547543798859" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,25 +145,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.kuupHarj">
-    <configuration name="Massiiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Massiiv" />
-      <module name="koos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kuupHarj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kuupHarj" />
-      <module name="koos" />
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ee.E.Demo" />
+      <module name="Exception" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ee.E.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.kuupHarj" />
-        <item itemvalue="Application.Massiiv" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -182,11 +170,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="522885ac-a2eb-494b-a9ad-dd0c28ae109a" name="Default Changelist" comment="" />
-      <created>1546951683608</created>
+      <changelist id="51221f6b-725c-46e9-b51c-3b5f7db17dd7" name="Default Changelist" comment="" />
+      <created>1547543416293</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546951683608</updated>
+      <updated>1547543416293</updated>
     </task>
     <servers />
   </component>
@@ -199,15 +187,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25135428" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -223,104 +211,26 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/ee/E.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Massiiv.java">
+    <entry file="file://$PROJECT_DIR$/src/ee/E/Teine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kuupHarj.java">
+    <entry file="file://$PROJECT_DIR$/src/ee/E/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>koos</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
