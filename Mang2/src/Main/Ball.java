@@ -45,7 +45,7 @@ public class Ball extends Circle {
             //&& uusY < paneHeight
             vectorX = -10;
             vectorY = randomNum;
-//            uusX = paneWidth;
+
 
         } else if (uusX < 0 + this.getRadius()) {
             vectorX = 10;
@@ -60,7 +60,7 @@ public class Ball extends Circle {
             vectorY = -10;
         }
 
-//        } else if (uusY)
+
 
             this.setCenterX(uusX);
         this.setCenterY(uusY);
