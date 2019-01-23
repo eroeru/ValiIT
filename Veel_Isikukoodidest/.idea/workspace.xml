@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="959bd637-2d07-4da6-bdee-c12d4fe6e0b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exception/proov.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MisOnKlass/ylesandepystitus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/src/ee/E/T66taja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/tyyandmed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rahaplan/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rahaplan/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rahaplan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StreamDemo/striimid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestPrinter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestPrinter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestPrinter/src/Tsyklid_Jutt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inimesed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/j2rjekorrad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ee/E/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/.idea/libraries/mssql_jdbc_7_0_0_jre10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/businesslogic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week3/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workers_Again/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workers_Again/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workers_Again/src/ee/E/Wrkrs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workers_Again_Again/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workers_Again_Again/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception/src/ee/E/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/src/ee/E/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iseseisev_tyy/inimesed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Iseseisev_tyy/inimesed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iseseisev_tyy/src/ee/E/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Iseseisev_tyy/src/ee/E/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Isikukood/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Isikukood/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Koos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Koos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MisOnKlass/src/ee/E/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MisOnKlass/src/ee/E/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../veeluuem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../veeluuem/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ee/E/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inimesed.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ee/E/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <element signature="e#3902#3903#0" expanded="true" />
+                <element signature="e#3931#3932#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/j2rjekorrad.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getbyna</find>
+      <find>person</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Person.java" />
+        <option value="$PROJECT_DIR$/src/ee/E/Main.java" />
+        <option value="$PROJECT_DIR$/inimesed.txt" />
+        <option value="$PROJECT_DIR$/j2rjekorrad.txt" />
+        <option value="$PROJECT_DIR$/src/ee/E/Person.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="165" />
+    <option name="y" value="171" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Veel_Isikukoodidest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Veel_Isikukoodidest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Veel_Isikukoodidest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Veel_Isikukoodidest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Veel_Isikukoodidest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Veel_Isikukoodidest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="E" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547733164890" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ee.E.Main" />
+      <module name="Veel_Isikukoodidest" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="959bd637-2d07-4da6-bdee-c12d4fe6e0b7" name="Default Changelist" comment="" />
+      <created>1547633065560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547633065560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Person.java" />
+    <entry file="file://$PROJECT_DIR$/j2rjekorrad.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inimesed.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ee/E/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#3902#3903#0" expanded="true" />
+            <element signature="e#3931#3932#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ee/E/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+1,0 UI paistab
+F (funktsioonid) BL (business logic) teeb
+M (memory) DS (data service) teab
+
+Database
+
+

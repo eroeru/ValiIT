@@ -1,0 +1,41 @@
+TORU - (stream)
+
+on mugavam mõnes kohas, kui kollektsioon
+
+Striime saab tekitada
+saab toimetada (filtreerida, muuta jne)
+saab lõpetada
+tegevusega
+teisendusega (collector)
+tekitajaga või arrayst. kui list, siis
+list.stream()
+
+
+Stream.of(array) - array peab koosnema objektidest, mitte primitiividest
+
+see ss objektide striim
+aga arvude striim -
+
+
+IntStream.of(array)
+DoubleStream.of(
+v range v iterate vms
+
+objektide striimidel on lõpus ainult count()
+
+arvu striimidel on lisaks sum() ja average()
+
+generic stream, intide, doubleite, longide jne
+
+
+Integer[] arvudA = {1,2,3,4,5,6};
+Sellest striimi summeerida ei saa
+Stream.of(arvudA).count (sum-i ei anna)
+Stream.of(arvudA).mapToInt(x -> x) // siin peab olema funktsioon, kuigi mõtteta. võtab palli ja annab selle vastu
+//vt main
+
+
+igal kollektsioonil, millel iteraator on meetod stream()
+
+pipeline
+massiivi saab streamiks Stream.of(massiiv) meetodiga

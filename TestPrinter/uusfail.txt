@@ -1,0 +1,30 @@
+//maht, tähendus, sisu, võimalikud operatsioonid
+
+klass on definitsioon
+
+
+ligipääsureeglid:
+public, private, protected, -(default)
+
+public - meetod/väli/konstruktor on kasutatav kõikjal
+private - meetod/väli/konstruktor on kasutatav vaid klassi siseselt
+protected - package'i siseselt ja laiendatavates klassides, kui need on teises package'is
+(default) - märkimata, on kasutatav pavkage'i siseselt
+
+
+
+tehasega/factory'ga klass - klassi objekti loomine mingi klassi range kontrolli all
+
+konstruktor alati teeb.
+aga kui ei tea, kas vaja v mitte teha inimest (nt kui ei tohi teatud tingimustel inimest luua), siis
+... throw new exception
+
+
+klassist saab tuletada teisi klasse - õpetaja kui ka õpilane on inimesed jms
+inimene klassi laiendatakse, siis kui nt õpetaja luuakse
+
+
+int-idest (primitiividest) list-i teha ei saa. Integerist (klassist) saab. Int-idest saab array.
+
+
+

@@ -1,0 +1,70 @@
+Inimesed oleks vaja üles leida
+
+isikukoodi järgi
+nime järgi
+
+asjaolud: inimesi palju
+isikuk unikaalsed
+nimed võivad korduda
+
+nõuded: isikukoodi järgi peab olema võimalik leida SEE isik
+isikukood ei muutu
+kui isikukoodi ei ole, siis peaks "leid" olema null
+nimi võib muutuda
+nime järgi otsides tuleks leida KÕIK sellenimelised
+
+
+
+
+võimalused:
+1.) teeme listi ja otsime sealt
+public static List<Person> listOfPeople = new ArrayList<>();
+listOfPeople.add(this); //konstruktorisse  public Person(String personalId, String name) {
+
+
+hea - lihtne ja me oskame
+halb - kulukas, kui nimesi on palju
+
+
+
+2.1) teeme mapi inimestest, kus võti on isikukood (tulemuseks isikuk list)
+
+(esimene etapp: tegema; teine, mappi panema. esimese jaoks muutuja, teise jaoks tegema konstruktori)
+    public static Map<String, Person> mapOfPeople = new HashMap<>();
+
+    //konstruktorisse:
+    public Person(String personalId, String name) throws Exception {
+
+    }
+
+
+    // iga inimene, kes konstrueeritakse, pannakse isikukoodi järgi dictionary
+        if (!mapOfPeople.keySet().contains(personalId)) {
+                mapOfPeople.put(personalId, this);
+            }
+            else {throw new Exception("Sellise isikukoodiga inimene on juba eest:"
+
+
+
+2.2) teeme mapi inimestest, kus võti on nimi (tulemuseks list)
+    public static Map<String, List<Person>> mapOfPeopleNames = new TreeMap();
+
+
+
+hea lihtne teha, isikukoodiga isegi saaks
+halb - võti (nimi) kipub muutuma
+halb - nimega inimesi palju
+
+Jäänud probleem: nimi võib muutuda, mida teha, kui nimi muutub
+
+miks meil see probleem on?
+kuidas meil on lahendatud nime muutmine?
+
+Teise nime listi.
+
+Nimi private, niiet setteris miskit.
+Vanast maha ja uude panna.
+
+
+
+

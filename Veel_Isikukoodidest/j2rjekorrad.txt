@@ -1,0 +1,29 @@
+1. väljad, fieldid klassi algul
+1.1. staatik algul
+1.1.1 private
+1.1.2 default
+1.1.3 protected
+1.1.4 public
+
+1.2 objektid
+
+
+2 konstruktorid
+juhul kui on static konstruktor, see esimene
+võiks olla signatuuri järjek. parameetrite arvu järgi. suurema arvu parameetritega konstr tagapool
+
+
+getterid-setterid sama välja jaoks paarilistena, siis kõrvuti. muidu võiks olla samas järjek nagu väljad, mida näitavad
+funktsioonid-meetodid
+
+
+3. meetodid/funktsioonid lõpus/teises pooles
+
+
+
+3.1 staatilised...
+
+3.2 instantsi omad. muutuja hulgast kutsutakse välja
+voidid
+
+3.3 override'id
