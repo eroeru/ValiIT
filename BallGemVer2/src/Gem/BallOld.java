@@ -1,4 +1,5 @@
-package Main;
+package Gem;
+
 
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
@@ -12,7 +13,7 @@ import java.util.concurrent.ThreadLocalRandom;
 // todo: make circles eat others. osmosis
 
 
-public class Ball extends Circle {
+public class BallOld extends Circle {
 
     double vectorX = Math.random() * 3;
     double vectorY = Math.random() * 3;
@@ -33,7 +34,7 @@ public class Ball extends Circle {
 //    Color colorRand = new Color(a, b, c);
 
 
-    public Ball() {
+    public BallOld() {
         //näiteks:
 //        Circle a = new Circle();
 //        a.setRadius(30);
@@ -102,7 +103,7 @@ public class Ball extends Circle {
         double uusR = vanaRad + expand;
 
 
-        // could be made MUCH simpler with vectorY *= -1; as with expand. yet I'll leave it just for reference' sake
+        // could be made MUCH simpler with vectorY *= -1; as with expand
         int randomNumX = ThreadLocalRandom.current().nextInt(min, max);
         int randomNumY = ThreadLocalRandom.current().nextInt(min, max);
         int randomNumAllX = ThreadLocalRandom.current().nextInt(-max, max);

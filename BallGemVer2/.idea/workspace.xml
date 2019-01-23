@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0564bdcc-fac3-4714-b55d-f2bdc272baf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/BallGemVer2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/src/Gem/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/src/Gem/BallOld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/src/Gem/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/src/Gem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BallGemVer2/src/Gem/Mover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b62e3f01-8739-4c54-8e94-f9e0b179e549" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BallGemVer2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gem/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gem/BallOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gem/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gem/Mover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mang2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mang2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,10 +27,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Gem/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-end-line="20" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,27 +39,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Game.java">
+        <entry file="file://$PROJECT_DIR$/src/Gem/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="72" column="37" selection-end-line="92" />
+            <state relative-caret-position="170">
+              <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#814#1341#0" expanded="true" />
-                <element signature="e#1340#1341#0" expanded="true" />
+                <element signature="e#920#1725#0" expanded="true" />
+                <element signature="e#1724#1725#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gem/BallOld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="82" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main/Ball.java">
+        <entry file="file://$PROJECT_DIR$/src/Gem/Ball.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="102">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gem/Mover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -69,14 +92,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>stage</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -84,15 +103,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main/Main.java" />
-        <option value="$PROJECT_DIR$/src/Main/Ball.java" />
-        <option value="$PROJECT_DIR$/src/Main/Game.java" />
+        <option value="$PROJECT_DIR$/src/Gem/Main.java" />
+        <option value="$PROJECT_DIR$/src/Gem/Game.java" />
+        <option value="$PROJECT_DIR$/src/Gem/BallOld.java" />
+        <option value="$PROJECT_DIR$/src/Gem/Mover.java" />
+        <option value="$PROJECT_DIR$/src/Gem/Ball.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="102" />
-    <option name="y" value="50" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="286" />
+    <option name="y" value="130" />
     <option name="width" value="1461" />
     <option name="height" value="830" />
   </component>
@@ -102,47 +123,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Mang2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mang2" type="462c0819:PsiDirectoryNode" />
+              <item name="BallGemVer2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BallGemVer2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Mang2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mang2" type="462c0819:PsiDirectoryNode" />
+              <item name="BallGemVer2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BallGemVer2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Mang2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mang2" type="462c0819:PsiDirectoryNode" />
+              <item name="BallGemVer2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BallGemVer2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mang2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548235180099" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548235180123" />
     <property name="last_opened_file_path" value="C:/UuemJava/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Main" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,77 +168,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.Main" />
-      <module name="Mang2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0564bdcc-fac3-4714-b55d-f2bdc272baf3" name="Default Changelist" comment="" />
-      <created>1548143175909</created>
+      <changelist id="b62e3f01-8739-4c54-8e94-f9e0b179e549" name="Default Changelist" comment="" />
+      <created>1548231930254</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548143175909</updated>
+      <updated>1548231930254</updated>
     </task>
-    <task id="LOCAL-00001" summary="Week3, game.">
-      <created>1548158304147</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1548158304148</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Week3, game.">
-      <created>1548158334602</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1548158334602</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Everything thru W1-mid-W3. Including bs code. :)">
-      <created>1548229176383</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1548229176383</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Ballgem ver 1">
-      <created>1548231868951</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1548231868951</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Ballgem ver 1">
-      <created>1548231905369</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1548231905369</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="-8" width="1848" height="1096" extended-state="6" />
+    <frame x="286" y="130" width="1461" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -234,15 +190,14 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20749441" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3281412" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23883697" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.4548063" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -257,41 +212,61 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Week3, game." />
-    <MESSAGE value="Everything thru W1-mid-W3. Including bs code. :)" />
-    <MESSAGE value="Ballgem ver 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ballgem ver 1" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Gem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-end-line="20" />
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gem/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/Gem/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="72" column="37" selection-end-line="92" />
+        <state relative-caret-position="170">
+          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#814#1341#0" expanded="true" />
-            <element signature="e#1340#1341#0" expanded="true" />
+            <element signature="e#920#1725#0" expanded="true" />
+            <element signature="e#1724#1725#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Ball.java">
+    <entry file="file://$PROJECT_DIR$/src/Gem/BallOld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="119">
+          <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="82" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gem/Mover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gem/Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -348,7 +323,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Mang2</last-edited>
+          <last-edited>BallGemVer2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
