@@ -8,10 +8,15 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
+
+// todo: make circles eat others. osmosis
+
+
 public class Ball extends Circle {
 
     double vectorX = Math.random() * 3;
     double vectorY = Math.random() * 3;
+    double expand = Math.random() * 0.004;
 
     Random rand = new Random();
     int low = 10;
@@ -44,6 +49,7 @@ public class Ball extends Circle {
         this.setRadius(result);
 
         this.setStroke(Color.rgb(r2, g2, b2));
+        this.setStrokeWidth(3);
 
 //           lihtne võimalus: this.setFill(Color.RED);
         this.setFill(Color.rgb(r1, g1, b1));
@@ -80,7 +86,7 @@ public class Ball extends Circle {
 //        vectorX = vectorX + 1; //bouncy-bouncy
 
         Pane pane = (Pane) this.getParent(); //kuidas see nüüd toimibki?
-        System.out.println(pane);
+//        System.out.println(pane); - debugged here
         double paneWidth = pane.getWidth() - this.getRadius();
         double paneHeight = pane.getHeight() - this.getRadius();
         double praeguneX = this.getCenterX();
@@ -91,17 +97,19 @@ public class Ball extends Circle {
         int min = 1;
         int max = 3;
 
-//        double muut = Math.random() * 3; //todo: teha ta suuremaksminevaks/väiksemaks
-//        double uusR = this.getRadius() + muut;
 
-        // could be made MUCH simpler with vectorY *= -1;
+        double vanaRad = this.getRadius();
+        double uusR = vanaRad + expand;
+
+
+        // could be made MUCH simpler with vectorY *= -1; as with expand
         int randomNumX = ThreadLocalRandom.current().nextInt(min, max);
         int randomNumY = ThreadLocalRandom.current().nextInt(min, max);
         int randomNumAllX = ThreadLocalRandom.current().nextInt(-max, max);
         int randomNumAllY = ThreadLocalRandom.current().nextInt(-max, max);
 
 
-        //another way to random:
+        //another way to random in meth:
 //        private int rand(int range) {
 //            return (int) (Math.random() * range);
 
@@ -110,29 +118,34 @@ public class Ball extends Circle {
             //&& uusY < paneHeight
             vectorX = -randomNumX;
             vectorY = randomNumAllY;
+            expand *= -1;
             fillColor();
+
 
 
         } else if (uusX < 0 + this.getRadius()) {
             vectorX = randomNumX;
             vectorY = randomNumAllY;
+            expand *= -1;
             fillColor();
 
         } else if (uusY < 0 + this.getRadius()) {
             vectorX = randomNumAllX;
             vectorY = randomNumY;
+            expand *= -1;
             fillColor();
 
         } else if (uusY > paneHeight) {
             vectorX = randomNumAllX;
             vectorY = -randomNumY;
+            expand *= -1;
             fillColor();
         }
 
 
         this.setCenterX(uusX);
         this.setCenterY(uusY);
-//this.setRadius(uusR);
+        this.setRadius(uusR);
 
     }
 
