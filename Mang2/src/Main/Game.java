@@ -65,8 +65,8 @@ public class Game {
     private void createBalls() {
 //        Ball b = new Ball(); //ülaldefineeritud juba
         Random rand = new Random();
-        int q = rand.nextInt(56);
-        for (int i = 0; i < 56; i++) {
+        int q = rand.nextInt(100);
+        for (int i = 0; i < q; i++) {
             Ball ball = new Ball();
             balls.add(ball);
             root.getChildren().add(ball);

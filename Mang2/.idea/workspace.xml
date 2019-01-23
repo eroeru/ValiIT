@@ -2,48 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0564bdcc-fac3-4714-b55d-f2bdc272baf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exception/proov.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MisOnKlass/ylesandepystitus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/src/ee/E/T66taja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/tyyandmed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rahaplan/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rahaplan/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rahaplan/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamDemo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamDemo/striimid.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestPrinter/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestPrinter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestPrinter/src/Tsyklid_Jutt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/inimesed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/j2rjekorrad.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/src/ee/E/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/.idea/libraries/mssql_jdbc_7_0_0_jre10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/businesslogic.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week3/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week3/src/project/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again/src/ee/E/Wrkrs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again_Again/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again_Again/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exception/src/ee/E/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/src/ee/E/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Iseseisev_tyy/inimesed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Iseseisev_tyy/inimesed.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Iseseisev_tyy/src/ee/E/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Iseseisev_tyy/src/ee/E/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Isikukood/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Isikukood/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Koos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Koos/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Ball.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MisOnKlass/src/ee/E/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MisOnKlass/src/ee/E/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../veeluuem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../veeluuem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,9 +31,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="323">
+              <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#814#1341#0" expanded="true" />
                 <element signature="e#1340#1341#0" expanded="true" />
               </folding>
@@ -82,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main/Ball.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="221">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,7 +123,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548229064415" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548231848033" />
     <property name="last_opened_file_path" value="C:/UuemJava/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -228,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548158334602</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Everything thru W1-mid-W3. Including bs code. :)">
+      <created>1548229176383</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548229176383</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -265,7 +235,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week3, game." />
-    <option name="LAST_COMMIT_MESSAGE" value="Week3, game." />
+    <MESSAGE value="Everything thru W1-mid-W3. Including bs code. :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Everything thru W1-mid-W3. Including bs code. :)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main/Main.java">
@@ -280,9 +251,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="323">
+          <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#814#1341#0" expanded="true" />
             <element signature="e#1340#1341#0" expanded="true" />
           </folding>
@@ -291,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Ball.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="221">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

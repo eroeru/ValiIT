@@ -2,48 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exception/proov.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MisOnKlass/ylesandepystitus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/src/ee/E/T66taja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Palgaylesanne/tyyandmed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rahaplan/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rahaplan/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Rahaplan/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamDemo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StreamDemo/striimid.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestPrinter/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestPrinter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestPrinter/src/Tsyklid_Jutt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/inimesed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/j2rjekorrad.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Veel_Isikukoodidest/src/ee/E/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/.idea/libraries/mssql_jdbc_7_0_0_jre10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Viimane_Henn/businesslogic.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again/src/ee/E/Wrkrs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again_Again/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Workers_Again_Again/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exception/src/ee/E/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/src/ee/E/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Iseseisev_tyy/inimesed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Iseseisev_tyy/inimesed.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Iseseisev_tyy/src/ee/E/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Iseseisev_tyy/src/ee/E/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Isikukood/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Isikukood/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Koos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Koos/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mang2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mang2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mang2/src/Main/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mang2/src/Main/Ball.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mang2/src/Main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mang2/src/Main/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MisOnKlass/src/ee/E/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MisOnKlass/src/ee/E/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../veeluuem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../veeluuem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -243,7 +205,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548229064384" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548231847984" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="C:/UuemJava/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib" />
     <property name="project.structure.last.edited" value="Libraries" />
